@@ -10,6 +10,7 @@
     "license": "MIT",
     "dependencies": {
         "gulp": "^3.9.1",
+        "gulp-query": "github:gulp-query/gulp-query",
         "gulp-buble": "^0.8.0",
         "gulp-concat": "^2.6.1",
         "gulp-if": "^2.0.2",
