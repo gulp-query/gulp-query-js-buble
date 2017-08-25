@@ -6,9 +6,19 @@
     "author": "Marat Nuriev",
     "email": "nurieff@gmail.com",
     "license": "MIT",
+    "repository": "https://github.com/gulp-query/gulp-query-js-buble",
+    "keywords": [
+        "js",
+        "concat",
+        "es2015",
+        "buble",
+        "gulp",
+        "gulp-query",
+        "gulp-query-plugin"
+    ],
     "dependencies": {
         "gulp": "^3.9.1",
-        "gulp-query": "github:gulp-query/gulp-query",
+        "gulp-query": "^1.0.0",
         "gulp-buble": "^0.8.0",
         "gulp-concat": "^2.6.1",
         "gulp-if": "^2.0.2",
